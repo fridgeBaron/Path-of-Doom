@@ -6,6 +6,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.mtl
+*.mat
+*.prefab
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -259,3 +262,30 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assets/GoldenSkullStudios/2D_Iso_Tile_Pack_Starter
+/Assets/Resources/Interface/Sprites
+/Assets/Resources/PSDs
+/Assets/Resources/Mobs/Sprites
+/Assets/Resources/Terrain/Doodads/Models
+/Assets/Resources/Terrain/TerrainSet.png
+/Assets/Resources/Terrain/Terrain.png
+/Assets/Resources/Terrain/skyboxSurround.png
+/Assets/Resources/Terrain/SkyBoxBottom.png
+/Assets/Resources/Terrain/Shapes.png
+/Assets/Resources/Terrain/HexMapFinished.png
+/Assets/Resources/Terrain/DirtTex.jpg
+/Assets/Resources/Terrain/4a4df018a73b2b79d2979b4cd61de207.jpg.png
+/Assets/Resources/Terrain/4a4df018a73b2b79d2979b4cd61de207.jpg
+/Assets/Resources/Towers/Models/Blender
+/Assets/Resources/Towers/Sprites
+/Assets/Scenes
+/Assets/Wall.blend1
+/Assets/Wall.blend
+/Assets/Tower.blend1
+/Assets/Tower.blend
+/Assets/Base.unity
+/Assets/Augment.blend
+/UserSettings
+/Temp
+/ProjectSettings
+/Library

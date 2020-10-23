@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1085F63C-F4DE-B5C6-FD34-466828791896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{56CD661B-F48E-3307-20C7-F3CDD3574B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{477E37D4-7A9F-65C6-D7D8-88FB6F666C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{5C91CF1F-2591-4AFF-55FF-F894BBD132BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1085F63C-F4DE-B5C6-FD34-466828791896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1085F63C-F4DE-B5C6-FD34-466828791896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1085F63C-F4DE-B5C6-FD34-466828791896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1085F63C-F4DE-B5C6-FD34-466828791896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CD661B-F48E-3307-20C7-F3CDD3574B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CD661B-F48E-3307-20C7-F3CDD3574B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CD661B-F48E-3307-20C7-F3CDD3574B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CD661B-F48E-3307-20C7-F3CDD3574B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477E37D4-7A9F-65C6-D7D8-88FB6F666C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477E37D4-7A9F-65C6-D7D8-88FB6F666C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477E37D4-7A9F-65C6-D7D8-88FB6F666C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477E37D4-7A9F-65C6-D7D8-88FB6F666C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C91CF1F-2591-4AFF-55FF-F894BBD132BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C91CF1F-2591-4AFF-55FF-F894BBD132BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C91CF1F-2591-4AFF-55FF-F894BBD132BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C91CF1F-2591-4AFF-55FF-F894BBD132BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
